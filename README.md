@@ -8,6 +8,7 @@
 > **Disclaimer & Intended Use:**  
 > This documentation and utility are provided for educational research, device recovery (unbricking), and installing authorized open-source operating systems (e.g., OpenWrt) on devices you legally own. Modifying ISP-leased equipment may violate terms of service. This document does not provide methods for GPON credential spoofing or unauthorized network access.
 
+Author's note: This is the initial findings on attempting to port OpenWrt to a F6600P. This might be useful for some people. I eventually plan to release the port once it is tested on device. 
 ---
 
 ## 1. Overview & Protocol Analysis
